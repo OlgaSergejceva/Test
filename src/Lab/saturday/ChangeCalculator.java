@@ -27,6 +27,7 @@ public class ChangeCalculator {
 		int price, received;
 		int change;
 		int pay50, pay20, pay10, pay5, pay2, pay1;
+		System.out.println("Test");
 		
 		//input
 		//declare a variable of type Scanner
